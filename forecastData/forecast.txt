@@ -1,0 +1,8 @@
+Monday;22;10;2018;2;-9;partlyCloudy;Mainly sunny. High minus 2. Tonight: Increasing cloudiness. Periods of snow or freezing rain beginning after midnight then changing to rain and fog overnight. Rainfall amount 5 mm. Wind becoming southeast 20 km/h before morning. Temperature rising to plus 3 by morning. Temperature rising to plus 3 by morning.;celsius;Charlottetown, PEI
+Tuesday;23;10;2018;9;1;rain;Rain ending in the afternoon then cloudy. Amount 10 mm. Fog. Wind southeast 30 km/h gusting to 50 becoming south 20 in the afternoon then light in the evening. High 9.;celsius;Charlottetown, PEI
+Wednesday;24;10;2018;3;-1;overcast;Cloudy. Low minus 1. High plus 3.;celsius;Charlottetown, PEI
+Thursday;25;10;2018;-2;-4;snow;Cloudy with 60 percent chance of flurries. Low minus 4. High minus 2.;celsius;Charlottetown, PEI
+Friday;26;10;2018;-3;-7;partlyCloudy;A mix of sun and cloud. Low minus 7. High minus 3.;celsius;Charlottetown, PEI
+
+
+
